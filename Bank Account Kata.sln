@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccountKata", "BankAccountKata\BankAccountKata.csproj", "{BAF5C2F2-1547-4B54-9323-7A7F115E8838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccountKata.Tests", "BankAccountKata.Tests\BankAccountKata.Tests.csproj", "{0D1115CC-C100-423B-94FF-50FDB7DD44CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF5C2F2-1547-4B54-9323-7A7F115E8838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF5C2F2-1547-4B54-9323-7A7F115E8838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF5C2F2-1547-4B54-9323-7A7F115E8838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF5C2F2-1547-4B54-9323-7A7F115E8838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D1115CC-C100-423B-94FF-50FDB7DD44CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1115CC-C100-423B-94FF-50FDB7DD44CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1115CC-C100-423B-94FF-50FDB7DD44CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1115CC-C100-423B-94FF-50FDB7DD44CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
